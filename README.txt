@@ -40,6 +40,5 @@ Por otro lado el repositorio en GitHub contiene la estructura acostumbrada en GI
 ruta del repositorio en gitHub https://github.com/mithrandir1589/psp2
 
 ***************************************************************************
-
-Para empaquetar el programa con Maven, se debe ejecutar la sentencia "mvn package" en la carpeta psp2, la cual es la que se descargará desde el repositorio GitHub y donde se encuentra el 
-pom.xml.
+Para empaquetar el programa con Maven, se debe ejecutar la sentencia "mvn package" en la carpeta raíz de donde se haga el pull del
+repositorio git, la cual es la que se descargará desde el repositorio GitHub y donde se encuentra el pom.xml.
